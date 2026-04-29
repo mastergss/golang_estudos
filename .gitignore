@@ -1,0 +1,32 @@
+# Binários
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build
+bin/
+dist/
+
+# Logs
+*.log
+
+# Arquivos Go
+*.test
+*.out
+
+# Dependências
+vendor/
+
+# Variáveis de ambiente
+.env
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
